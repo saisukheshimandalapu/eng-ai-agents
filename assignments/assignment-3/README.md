@@ -6,6 +6,7 @@
 ## Contents
 - `dut-anti-uav.ipynb`: detector fine-tuning, Kalman tracker, evaluation and answers to questions 1-6 (all cell outputs saved)
 - `video12_kalman.mp4`: output video for video12 (green = ground truth, red = Kalman estimate and trajectory)
+- `video13_kalman.mp4`: output video for video13, the failure case analyzed in question 4 (optional extra)
 
 ## Results
 | | Detector alone | Detector + Kalman filter |
